@@ -1,0 +1,81 @@
+# לשם דיור לוגיסטי בע״מ — Generative Engine Optimization Map
+
+> אני רוצה לבנות דף נחיתה לעסק שלי
+
+---
+
+## Pages
+
+### בית
+https://-d7127411.zappy5.app
+לשם דיור לוגיסטי בע״מ מובילה את שוק הדיור הלוגיסטי בישראל עם פתרונות השכרה ייחודיים למשקיעים ולעסקים. גלו למה אלפי לקוחות בוחרים בנו.
+
+### שירותים
+https://-d7127411.zappy5.app/services
+מגוון שירותי דיור לוגיסטי מותאמים אישית לכל צורך — השכרת נכסים, ניהול נכסים לוגיסטיים ופתרונות מקצועיים למשקיעים. בואו לגלות את מה שמחכה לכם.
+
+### אודות
+https://-d7127411.zappy5.app/about
+מי עומד מאחורי לשם דיור לוגיסטי בע מ? הכירו את הצוות המקצועי, הערכים שמניעים אותנו והחזון שהפך אותנו לשם דבר בתחום נכסי הלוגיסטיקה בישראל.
+
+### צור קשר
+https://-d7127411.zappy5.app/contact
+יש לכם שאלה על דיור לוגיסטי להשכרה או רוצים לשמוע על הזדמנויות השקעה? צרו קשר עם מומחי לשם דיור לוגיסטי בע״מ ונחזור אליכם בהקדם האפשרי.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-d7127411.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-d7127411.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-d7127411.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-d7127411.zappy5.app/contact
+- Endpoint: https://-d7127411.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About לשם דיור לוגיסטי בע״מ
+אני רוצה לבנות דף נחיתה לעסק שלי
+
+## Target Audience
+- משקיעי נדל"ן
+- חברות לוגיסטיקה
+- מנהלי שרשרת אספקה
+- מתווכי נדל"ן מסחרי
+- חברות ניהול נכסים
+- בעלי דירות
+
+## Industry
+General
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-d7127411.zappy5.app/sitemap.xml
+- Robots: https://-d7127411.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-d7127411.zappy5.app/llms-full.txt
