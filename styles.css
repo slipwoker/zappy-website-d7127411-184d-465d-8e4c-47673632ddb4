@@ -8400,6 +8400,24 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
     gap: 4px;
   }
 }
+
+.lsv-video-section .lsv-video-dual-wrapper {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  align-items: stretch;
+}
+
+.lsv-video-section .lsv-video-dual-wrapper .lsv-video-frame-wrapper {
+  flex: 1;
+  min-width: 0;
+}
+
+@media (max-width: 768px) {
+.lsv-video-section .lsv-video-dual-wrapper {
+  flex-direction: column;
+}
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
